@@ -8,4 +8,5 @@ const connection = mariadb.createConnection({
     dataString : true
 });
 
+
 module.exports = connection;
